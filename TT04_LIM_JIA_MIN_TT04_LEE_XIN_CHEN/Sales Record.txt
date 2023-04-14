@@ -1,0 +1,22 @@
+PURCHASED ID     USER ID      ITEM TYPE    ITEM ID      PRODUCT NAME             COMPANY                  UNIT      TOTAL COST (RM)
+22626            5999         Movie        24455        Loving                   Sony Pictures            1         210       
+23171            3759         Magazine     11686        Chat                     Mus, e du Louvre         6         108       
+23351            3351         Movie        24455        Loving                   Sony Pictures            4         840       
+24321            6754         Book         77539        Harry Potter             Bloomsbury               9         495       
+24425            8087         Book         34936        New Moon                 Little, Brown Book       4         228       
+24618            9602         Movie        66252        Jackie                   Columbia Pictures        4         620       
+24748            9390         Movie        24455        Loving                   Sony Pictures            5         1050      
+25150            7699         Movie        66252        Jackie                   Columbia Pictures        5         775       
+25477            9390         Movie        38198        Roma                     Metro-Goldwyn-Mayer      7         2100      
+25637            5294         Magazine     16749        OK!                      Hello!                   2         46        
+25699            4236         Magazine     43147        Love It!                 Hello!                   8         96        
+25754            9478         Book         34936        New Moon                 Little, Brown Book       5         285       
+25803            1262         Book         34936        New Moon                 Little, Brown Book       13        741       
+25842            6509         Magazine     16749        OK!                      Hello!                   3         69        
+25885            6754         Magazine     43147        Love It!                 Hello!                   7         84        
+25924            6754         Book         17598        Chocolat                 Transworld               5         185       
+25953            1014         Magazine     64283        PJ Masks                 Fast Company             2         22        
+25986            3759         Movie        36739        I, Tonya                 Netflix                  8         1400      
+26022            6017         Magazine     76174        TV Choice                Fast Company             11        330       
+26061            1014         Magazine     92335        New!                     Hello!                   2         36        
+10904            6017         Movie        38198        Roma                     Metro-Goldwyn-Mayer      2         600       

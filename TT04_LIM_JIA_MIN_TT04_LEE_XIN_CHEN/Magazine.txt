@@ -1,0 +1,51 @@
+ID      NAME                     PRICE(RM)     UNIT      COMPANY                  PUBLISHED TIME[YYYY/MM]       
+76174   TV Choice                30            77        Fast Company             2018/05                  
+76967   What's on TV             39            72        Nature America           2017/05                  
+29863   Slimming World Magazine  9             77        Hello!                   2017/04                  
+34951   Take a Break             20            69        O'Reilly Media Inc       2019/04                  
+73286   Radio Times              48            66        Nature America           2018/02                  
+22333   Woman's Weekly           11            109       Fast Company             2017/09                  
+38686   That's Life              6             81        Ebony                    2017/01                  
+11694   Take A Break Monthly     34            71        Getty Publications       2016/07                  
+11686   Chat                     18            67        Mus, e du Louvre         2019/04                  
+59822   Good Housekeeping        9             52        Fast Company             2015/05                  
+13253   Bella                    8             84        O'Reilly Media Inc       2018/06                  
+46126   Closer                   14            72        Getty Publications       2015/09                  
+69157   Yours                    21            54        Nature America           2019/12                  
+52363   Hello!                   15            74        Hello!                   2017/11                  
+76394   Woman & Home             12            58        Mus, e du Louvre         2018/05                  
+92335   New!                     18            62        Hello!                   2018/11                  
+86572   TV Times                 16            71        Getty Publications       2018/07                  
+85497   Cosmopolitan             25            102       O'Reilly Media Inc       2017/12                  
+11585   The People's Friend      9             58        Ebony                    2019/01                  
+16749   OK!                      23            64        Hello!                   2016/12                  
+73652   Prima                    28            90        Nature America           2019/03                  
+79973   Best                     10            96        CIO Magazine             2019/12                  
+28143   Real People              11            94        Mus, e du Louvre         2017/04                  
+34316   Private Eye              15            71        CIO Magazine             2018/06                  
+46726   Red                      17            54        Publishers Weekly        2019/07                  
+43147   Love It!                 12            97        Hello!                   2017/12                  
+58313   Platinum                 13            76        Kids Discover            2017/06                  
+89515   Your Home                18            63        Slimming World           2016/09                  
+95769   Inside Soap              15            69        Kids Discover            2018/01                  
+34962   BBC Good Food            9             84        Publishers Weekly        2018/05                  
+74398   Vogue                    16            95        Nature America           2017/08                  
+79453   Pick Me Up               9             88        InDesignSecrets.com      2017/04                  
+94483   My Weekly                24            66        Publishers Weekly        2016/11                  
+44786   Ideal Home               15            67        Granta Publications      2020/03                  
+49941   Country Living           16            103       Fast Company             2017/06                  
+88186   Healthy                  17            54        Slimming World           2019/11                  
+28479   Lego Ninjago             19            87        SESAC                    2019/09                  
+43576   Grazia                   12            54        The Spectator            2018/01                  
+74871   CBeebies Special         27            112       Granta Publications      2016/09                  
+22915   Style at Home            23            91        InDesignSecrets.com      2018/04                  
+85298   HomeStyle                15            77        InDesignSecrets.com      2017/08                  
+35435   Top of the Pops          29            90        CIO Magazine             2017/02                  
+41681   Elle                     23            96        Ebony                    2019/07                  
+64418   Girl Talk                22            53        Slimming World           2018/06                  
+71673   House Beautiful          15            34        Nature America           2019/07                  
+37675   Men's Health             17            85        SESAC                    2017/03                  
+28724   Disney Stars             31            88        The Spectator            2018/11                  
+58937   Homes & Gardens          18            92        CIO Magazine             2020/02                  
+64283   PJ Masks                 11            53        Fast Company             2017/05                  
+38533   Hatchimals               13            50        Kids Discover            2018/09                                                                           

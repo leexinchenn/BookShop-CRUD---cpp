@@ -1,0 +1,4 @@
+ITEM TYPE                TOTAL SALES UNITS        TOTAL SALES AMOUNT(RM)   
+Book                     36                       1934.00                  
+Magazine                 41                       791.00                   
+Movie                    36                       7595.00                  

@@ -1,0 +1,10 @@
+ORDER ID     USER ID      ITEM TYPE    ITEM ID      PRODUCT NAME             COMPANY                  UNIT      TOTAL COST (RM)
+26926        9390         Book         19284        Twilight                 Little, Brown Book       4         216       
+27011        6509         Movie        17571        Avengers: Infinity War   Marvel Studios           7         2100      
+27067        5999         Magazine     11686        Chat                     Mus, e du Louvre         1         18        
+27145        3199         Movie        65221        Iron Man                 Marvel Studios           3         840       
+27201        5690         Magazine     38686        That's Life              Ebony                    5         30        
+28576        2570         Movie        38198        Roma                     Metro-Goldwyn-Mayer      9         2700      
+28631        2674         Magazine     95769        Inside Soap              Kids Discover            3         45        
+28716        4245         Book         28571        Eclipse                  Little, Brown Book       8         424       
+28772        8825         Book         77539        Harry Potter             Bloomsbury               15        825       

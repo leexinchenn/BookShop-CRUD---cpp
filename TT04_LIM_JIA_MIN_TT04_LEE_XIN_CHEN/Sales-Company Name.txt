@@ -1,0 +1,11 @@
+COMPANY NAME             TOTAL SALES UNITS        TOTAL SALES AMOUNT(RM)   
+Bloomsbury               9                        495.00                   
+Columbia Pictures        9                        1395.00                  
+Fast Company             13                       352.00                   
+Hello!                   22                       331.00                   
+Little, Brown Book       22                       1254.00                  
+Metro-Goldwyn-Mayer      9                        2700.00                  
+Mus, e du Louvre         6                        108.00                   
+Netflix                  8                        1400.00                  
+Sony Pictures            10                       2100.00                  
+Transworld               5                        185.00                   

@@ -1,0 +1,14 @@
+Product NAME             TOTAL SALES UNITS        TOTAL SALES AMOUNT(RM)   
+Chat                     6                        108.00                   
+Chocolat                 5                        185.00                   
+Harry Potter             9                        495.00                   
+I, Tonya                 8                        1400.00                  
+Jackie                   9                        1395.00                  
+Love It!                 15                       180.00                   
+Loving                   10                       2100.00                  
+New Moon                 22                       1254.00                  
+New!                     2                        36.00                    
+OK!                      5                        115.00                   
+PJ Masks                 2                        22.00                    
+Roma                     9                        2700.00                  
+TV Choice                11                       330.00                   

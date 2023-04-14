@@ -1,0 +1,46 @@
+ID      NAME                     PRICE(RM)     UNIT      COMPANY                  ACTOR                    
+12498   La La Land               230           64        Universal Pictures       Emma Stone               
+23473   Elle                     140           81        Entertainment            Isabelle Huppert         
+24455   Loving                   210           34        Sony Pictures            Ruth Negga               
+66252   Jackie                   155           55        Columbia Pictures        Natalie Portman          
+38435   Florence Foster Jenkins  160           93        Focus Features           Meryl Streep             
+86594   The Shape of Water       210           76        20th Century Studios     Sally Hawkins            
+36739   I, Tonya                 175           87        Netflix                  Margot Robbie            
+18856   Lady Bird                105           56        Disneynature             Saoirse Ronan            
+56182   The Post                 260           47        Entertainment            Meryl Streep             
+38198   Roma                     300           54        Metro-Goldwyn-Mayer      Yalitza Aparicio         
+11325   The Wife                 275           82        Paramount Pictures       Glenn Close              
+69484   A Star Is Born           165           65        Warner Bros.             Lady Gaga                
+17553   Can You Ever Forgive Me  240           48        New Line Cinema          Melissa McCarthy         
+56688   Harriet                  150           73        Focus Features           Cynthia Erivo            
+89652   Marriage Story           185           90        Entertainment            Scarlett Johansson       
+56664   Little Women             320           23        Pixar                    Saoirse Ronan            
+38769   Bombshell                260           41        20th Century Studios     Charlize Theron          
+87758   The Incredible Hulk      280           50        Marvel Studios           Mark Ruffalo             
+36184   Thor                     280           30        Marvel Studios           Chris Hemsworth          
+65221   Iron Man                 280           40        Marvel Studios           Robert Downey Jr.        
+14456   Marvel's The Avengers    300           50        Marvel Studios           Robert Downey Jr.        
+14338   Guardians of the Galaxy  280           60        Marvel Studios           Chris Pratt              
+54574   Avengers: Age of Ultron  300           70        Marvel Studios           Robert Downey Jr.        
+78662   Ant-Man                  280           70        Marvel Studios           Paul Rudd                
+42956   Civil War                280           40        Marvel Studios           Chris Evans              
+32995   Captain America          280           45        Marvel Studios           Chris Evans              
+14212   Doctor Strange           280           53        Marvel Studios           Benedict Cumberbatch     
+95252   Spider-Man: Homecoming   280           78        Marvel Studios           Tom Holland              
+11426   Black Panther            280           56        Marvel Studios           Chadwick Boseman         
+17571   Avengers: Infinity War   300           35        Marvel Studios           Robert Downey Jr.        
+15885   Captain Marvel           280           37        Marvel Studios           Brie Larson              
+53921   Avengers: Endgame        300           50        Marvel Studios           Robert Downey Jr.        
+59275   League of Gods           135           43        Principal photography    Cecilia Cheung           
+77832   Justice League           260           67        Warner Bros.             Ben Affleck              
+35911   Us and Them              170           74        Netflix                  Jing Boran               
+17127   After                    220           67        Netflix                  Josephine Langford       
+98277   Mulan                    360           48        Walt Disney Pictures     Liu Yifei                
+47313   Pirates of the Caribbean 270           43        Walt Disney Pictures     Johnny Depp              
+96472   Jumanji                  200           51        Columbia Pictures        Dwayne Johnson           
+36674   Maze Runner              230           58        20th Century Fox         Dylan O'Brien            
+56944   The Twilight Saga        220           76        Summit Entertainment     Kristen Stewart          
+62318   Kong: Skull Island       250           43        Warner Bros.             Tom Hiddleston           
+44426   Truth or Dare            220           76        Universal Pictures       Lucy Hale                
+17799   The Invisible Man        200           34        Universal Pictures       Elisabeth Moss           
+23854   Our Times                210           65        Huace Pictures           Vivian Sung              

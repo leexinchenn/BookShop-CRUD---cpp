@@ -1,0 +1,49 @@
+ID      NAME                     PRICE(RM)     UNIT      COMPANY                  AUTHOR                   
+77539   Harry Potter             55            152       Bloomsbury               Rowling, J.K.            
+13247   Fifty Shades of Grey     36            89        Random House             James, E.L.              
+62216   Angels and Demons        46            93        Transworld               Brown, Dan               
+19284   Twilight                 54            106       Little, Brown Book       Meyer, Stephenie         
+85937   Fifty Shades Darker      36            78        Random House             James, E.L.              
+35172   Fifty Shades Freed       36            92        Random House             James, E.L.              
+77868   Lost Symbol, The         51            83        Transworld               Brown, Dan               
+34936   New Moon                 57            94        Little, Brown Book       Meyer, Stephenie         
+28571   Eclipse                  53            76        Little, Brown Book       Meyer, Stephenie         
+19629   Deception Point          45            126       Transworld               Brown, Dan               
+19522   Lovely Bones,The         55            47        Pan Macmillan            Sebold, Alice            
+68681   Digital Fortress         53            90        Transworld               Brown, Dan               
+59631   Breaking Dawn            52            71        Little, Brown Book       Meyer, Stephenie         
+58623   Gruffalo,The             68            92        Pan Macmillan            Donaldson, Julia         
+52299   Kite Runner,The          42            57        Bloomsbury               Hosseini, Khaled         
+28924   One Day                  36            107       Hodder & Stoughton       Nicholls, David          
+76993   Atonement                42            53        Random House             McEwan, Ian              
+35172   Life of Pi               27            48        Canongate                Martel, Yann             
+82174   Billy Connolly           62            91        HarperCollins            Stephenson, Pamela       
+25931   Child Called It, A       47            83        Orion                    Pelzer, Dave             
+49843   Gruffalo's Child, The    71            53        Pan Macmillan            Donaldson, Julia         
+22149   Birdsong                 67            96        Random House             Faulks, Sebastian        
+77549   Labyrinth                49            63        Orion                    Mosse, Kate              
+49734   Help, The                36            66        Penguin                  Stockett, Kathryn        
+65822   Man and Boy              38            72        HarperCollins            Parsons, Tony            
+47938   Memoirs of a Geisha      47            92        Random House             Golden, Arthur           
+95996   Island, The              48            108       Headline                 Hislop, Victoria         
+77224   PS, I Love You           37            69        HarperCollins            Ahern, Cecelia           
+82312   Broker,The               62            78        Random House             Grisham, John            
+17598   Chocolat                 37            95        Transworld               Harris, Joanne           
+46635   My Sister's Keeper       57            49        Hodder & Stoughton       Picoult, Jodi            
+85861   To Kill a Mockingbird    62            98        Random House             Lee, Harper              
+13538   Dear Fatty               53            117       Random House             French, Dawn             
+55351   Hannibal                 58            79        Random House             Harris, Thomas           
+71438   Jamie's Italy            45            68        Penguin                  Oliver, Jamie            
+43622   I Can Make You Thin      58            124       Transworld               McKenna, Paul            
+92782   Down Under               47            83        Transworld               Bryson, Bill             
+91616   Summons,The              67            89        Random House             Grisham, John            
+34571   Small Island             58            96        Headline                 Levy, Andrea             
+49735   Nigella Express          36            85        Random House             Lawson, Nigella          
+71137   Brick Lane               40            102       Transworld               Ali, Monica              
+79119   Room on the Broom        35            84        Pan Macmillan            Donaldson, Julia         
+28978   Donaldson, Julia         28            125       Penguin                  Hornby, Nick             
+19238   My Booky Wook            56            82        Hodder & Stoughton       Brand, Russell           
+44268   White Teeth              58            108       Penguin                  Smith, Zadie             
+58356   Book Thief,The           41            89        Transworld               Zusak, Markus            
+31464   Ghost,The                31            102       Random House             Harris, Robert           
+72946   It Ends With Us          45            98        Atria Books              Colleen Hoover           
